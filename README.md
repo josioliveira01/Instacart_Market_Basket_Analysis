@@ -6,17 +6,17 @@ O presente estudo de caso analisou o comportamento de consumo na plataforma Inst
 ## 📄 Documentação Técnica
 Para uma análise detalhada de cada etapa do projeto, incluindo gráficos e planos de ação, acesse o relatório completo:
 
-[![Relatório em PDF](https://img.shields.io/badge/Download-Relat%C3%B3rio_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/d6adaa2116ff51691d2bfe893384df1b66b71873/An%C3%A1lise_Dados_Instacart.pdf)
+[![Relatório em PDF](https://img.shields.io/badge/Download-Relat%C3%B3rio_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/josioliveira01/Instacart_Market_Basket_Analysis/blob/b30093d6f085a97d67b8aeeafd3caf2cfb0376a8/An%C3%A1lise_Dados_Instacart.pdf)
 
 ## 📊 Visualização dos Dados
 Os resultados das análises foram consolidados em um dashboard executivo para facilitar a tomada de decisão da equipe de Marketing.
 
-[![Visualizar Dashboard](https://img.shields.io/badge/Acessar-Dashboard_PDF-blue?style=for-the-badge&logo=google-analytics)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/dash_supermercado.pdf)
+[![Visualizar Dashboard](https://img.shields.io/badge/Acessar-Dashboard_PDF-blue?style=for-the-badge&logo=google-analytics)](https://github.com/josioliveira01/Instacart_Market_Basket_Analysis/blob/b30093d6f085a97d67b8aeeafd3caf2cfb0376a8/dash_supermercado.pdf)
 
 ## 🎤 Apresentação (Slides)
 Este documento foi estruturado para uma reunião de tomada de decisão com a equipe de Marketing, traduzindo métricas estatísticas em planos de ação claros.
 
-[![Visualizar Slides](https://img.shields.io/badge/Acessar-Slides_Apresentação-orange?style=for-the-badge&logo=microsoft-powerpoint)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/Apresentação_rotas_consumidores.pdf)
+[![Visualizar Slides](https://img.shields.io/badge/Acessar-Slides_Apresentação-orange?style=for-the-badge&logo=microsoft-powerpoint)](https://github.com/josioliveira01/Instacart_Market_Basket_Analysis/blob/b30093d6f085a97d67b8aeeafd3caf2cfb0376a8/Apresenta%C3%A7%C3%A3o_rotas_consumidores.pdf)
 
 
 ## 🚀 Objetivos do Projeto
